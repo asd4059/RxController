@@ -33,8 +33,8 @@ These classes make it easy to transfer data among the flows, the parent view mod
   s.source_files = 'RxController/Classes/**/*'
   s.preserve_paths = 'rxtree/**/*'
   
-  s.dependency 'RxSwift', '~> 5'
-  s.dependency 'RxCocoa', '~> 5'
+  s.dependency 'RxSwift'
+  s.dependency 'RxCocoa'
   s.dependency 'RxFlow', '~> 2.7'
 
 end
